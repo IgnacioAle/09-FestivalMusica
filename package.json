@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/IgnacioAle/09-FestivalMusica/issues"
   },
-  "homepage": "https://github.com/IgnacioAle/09-FestivalMusica#readme"
+  "homepage": "https://github.com/IgnacioAle/09-FestivalMusica#readme",
+  "devDependencies": {
+    "sass": "^1.72.0"
+  }
 }
