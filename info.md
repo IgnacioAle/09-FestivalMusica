@@ -8,3 +8,4 @@ A continuación se muestra el código necesario para configurar el compilador de
 }
 
 //npx gulp tarea
+//npm run tarea
