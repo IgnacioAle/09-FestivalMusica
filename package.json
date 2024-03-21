@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/IgnacioAle/09-FestivalMusica#readme",
   "devDependencies": {
+    "gulp": "^4.0.2",
     "sass": "^1.72.0"
   }
 }
