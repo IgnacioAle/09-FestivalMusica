@@ -6,3 +6,5 @@ A continuación se muestra el código necesario para configurar el compilador de
 "scripts": {
   "sass": "sass --watch src/scss:build/css" //npm run sass
 }
+
+//npx gulp tarea
